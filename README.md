@@ -1,4 +1,4 @@
-# VelvetShell-Public
+# VelvetShell Public
 ⚛️CtOS Hack-the-World Initiative
 ---
 
